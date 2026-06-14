@@ -1,5 +1,5 @@
 export default function RsvpSection() {
-  const phone = "77085514251";
+  const phone = "77784470135";
 
   const message = encodeURIComponent(
     "Сәлеметсіз бе! Еркіннің 50 жас мерейтойына қатысатынымды растаймын."
