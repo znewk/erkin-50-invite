@@ -55,7 +55,7 @@ export default function LocationSection() {
               </p>
 
               <a
-                href="#"
+                href="https://go.2gis.com/FfXTP"
                 target="_blank"
                 rel="noreferrer"
                 className="mt-8 inline-flex rounded-full border border-[#b88a3b] px-6 py-3 text-[#8d6421] transition hover:bg-[#fff5e4]"
